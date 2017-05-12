@@ -1,0 +1,22 @@
+{
+  "name": "moplin/yii2lodashasset",
+  "description": "lodash to assets",
+  "type": "yii2-asset",
+  "minimum-stability": "stable",
+  "keywords": ["yii2","lodash"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/fedemotta/yii2-gridstack/issues?state=open",
+    "source": "https://github.com/fedemotta/yii2-gridstack"
+  },
+  "authors": [
+    {
+      "name": "Federico Nicolás Motta",
+      "email": "fedemotta@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "bower-asset/lodash":"^3.5.0"
+  }
+}
